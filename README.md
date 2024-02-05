@@ -3,8 +3,8 @@
 A Freelance project for the company JETON. I scraped all data from a E-Commerce site [Petlebi.com](https://www.petlebi.com/)https://www.petlebi.com/ Made an SQL table and the analysis of the outcome. 
 
 ```shell
-git clone https://github.com/wurat/CS210_FINAL_PROJECT.git
-cd BreadcrumbsWeb-Scraping-E-Commerce/
+git clone https://github.com/MuratAyar/Web-Scraping-E-Commerce.git
+cd Web-Scraping-E-Commerce/
 pip install -r requirements.txt
 ```
 
